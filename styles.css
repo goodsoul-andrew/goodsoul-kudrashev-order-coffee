@@ -154,3 +154,7 @@
     cursor: pointer;
     color: #333;
 }
+
+th, td {
+    border: 1px solid black;
+}
